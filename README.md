@@ -20,3 +20,7 @@ can be on any web server or even local
 file system.
 
 ## How To contribute
+
+### Copyright
+
+2021 Git.Traning.
