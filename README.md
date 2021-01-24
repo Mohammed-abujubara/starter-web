@@ -27,4 +27,4 @@ review.
 
 ### Copyright
 
-2021 Git.Traning.
+2021 Git.Traning. All rights reserved.
